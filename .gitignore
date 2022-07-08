@@ -13,3 +13,6 @@ Debug/Makefile
 Debug/makedep.mk
 GRBL-L-Mega.cproj
 GRBL-L-Mega.cproj.vspscc
+.pio
+.vscode/c_cpp_properties.json
+.vscode/launch.json
