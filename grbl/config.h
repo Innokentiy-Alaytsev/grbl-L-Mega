@@ -647,6 +647,14 @@
 #define RPM_LINE_B3  4.881851e+02
 #define RPM_LINE_A4  1.203413e-01  // Used N_PIECES = 4. A and B constants of line 4.
 #define RPM_LINE_B4  1.151360e+03
+#define N_PIECES 2
+#define RPM_MAX 255.0
+#define RPM_MIN 0.0
+#define RPM_POINT12 20.0
+#define RPM_LINE_A1 1.000000e+00
+#define RPM_LINE_B1 1.209610e-23
+#define RPM_LINE_A2 1.000000e+00
+#define RPM_LINE_B2 8.704149e-13
 
 
 /* ---------------------------------------------------------------------------------------
